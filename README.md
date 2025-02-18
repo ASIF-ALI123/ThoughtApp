@@ -1,14 +1,13 @@
 This project is for learning various concepts of technologies, this project enable users to write and store their thought.
 
 Installation
----------------
+----------------------------------------------------------------------------------------------------
 Clone the repository: Please use below steps to clone this project in your local workspace
 
 git clone https://github.com/username/repository.git](https://github.com/ASIF-ALI123/ThoughtApp.git
 provide your username and password
 then in your IDE, you can import this project and use it.
------------------------------
-
+-----------------------------------------------------------------------------------------------------
 Technologies Used:
 
 **Redis**: Used for caching and improving application performance by temporarily storing frequently accessed data, here used in getting details of WEATHER information an api integrate within this project.
